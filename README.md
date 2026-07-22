@@ -20,5 +20,5 @@ The platform is currently under development, so some features may occasionally r
 
 For feedback, suggestions, or technical issues, please contact:
 
-📧 **Email:** jiangweiwang@ufl.edu..
+📧 **Email:** jiannan.cai@utsa.edu   ///   jiangweiwang@ufl.edu（technical issues）
 -->

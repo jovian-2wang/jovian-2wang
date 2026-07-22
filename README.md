@@ -10,7 +10,7 @@ I am currently developing **MathBridge AI**, a test-stage mathematics learning p
 
 - **MathBridge AI** – An AI-powered mathematics learning platform for students, teachers, and parents.
 - **Robotic Vision** – Computer vision applications for object detection, positioning, and robotic manipulation.
-- **Data Engineering** – Data processing, normalization, and distributed data pipelines.
+
 
 ## MathBridge AI User Testing
 

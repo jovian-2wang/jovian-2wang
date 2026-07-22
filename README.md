@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**jovian-2wang/jovian-2wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Jiangwei Wang, a Master's student in Computer Science at the University of Florida.
 
-Here are some ideas to get you started:
+My current work focuses on AI-powered educational systems, computer vision, and intelligent applications for robotic systems. I am particularly interested in developing practical AI tools that support personalized learning and real-world problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I am currently developing **MathBridge AI**, a test-stage mathematics learning platform designed for students, teachers, and parents. The platform provides interactive math practice, step-by-step hints, visual explanations, and learning progress insights.
+
+## Current Projects
+
+- **MathBridge AI** – An AI-powered mathematics learning platform for students, teachers, and parents.
+- **Robotic Vision** – Computer vision applications for object detection, positioning, and robotic manipulation.
+- **Data Engineering** – Data processing, normalization, and distributed data pipelines.
+
+## MathBridge AI User Testing
+
+Teachers, parents, and students are welcome to participate in the testing of MathBridge AI.
+
+The platform is currently under development, so some features may occasionally respond slowly or behave unexpectedly. Feedback about the learning content, user experience, and technical performance is greatly appreciated.
+
+For feedback, suggestions, or technical issues, please contact:
+
+📧 **Email:** jiangweiwang@ufl.edu..
 -->

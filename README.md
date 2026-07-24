@@ -9,4 +9,4 @@ I am currently developing [MathBridge AI]：https://mathbridge-ai-user-testing-k
 - **[MathBridge AI]** https://mathbridge-ai-user-testing-kxnpfqdx5vvzhyzuvhrnmw.streamlit.app/  – An AI-powered mathematics learning platform for students, teachers, and parents.
 - **Robotic Vision** – Computer vision applications for object detection, positioning, VLA and robotic manipulation.
 
-📧 **Contact:** For technical issues, educational feedback, suggestions, or new ideas, please feel free to contact us at [jiannan.cai@utsa.edu](mailto:jiannan.cai@utsa.edu) or [jiangweiwang@ufl.edu](mailto:jiangweiwang@ufl.edu)（technical issues）. We would love to hear from you!
+📧 **Contact:** For technical issues, educational feedback, suggestions, or new ideas, please feel free to contact us at [jiannan.cai@utsa.edu](mailto:jiannan.cai@utsa.edu) or [jiangweiwang@ufl.edu](mailto:jiangweiwang@ufl.edu)（technical issues). We would love to hear from you!

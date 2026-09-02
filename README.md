@@ -11,5 +11,5 @@ I am currently developing [MathBridge AI]：https://mathbridge-ai-user-testing-k
 
 📧 **Contact:** For technical issues, educational feedback, suggestions, or new ideas, please feel free to contact us at [jiannan.cai@utsa.edu](mailto:jiannan.cai@utsa.edu) or [jiangweiwang@ufl.edu](mailto:jiangweiwang@ufl.edu)（technical issues). We would love to hear from you!
 ## 💻 Languages & Tools
-- Python / Java / JavaScript / SQL
-- Git / GitHub / PyCharm / Streamlit / PostgreSQL
+- ** Python / Java / JavaScript / SQL
+- ** Git / GitHub / PyCharm / Streamlit / PostgreSQL

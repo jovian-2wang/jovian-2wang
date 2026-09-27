@@ -4,7 +4,7 @@ I am Jiangwei Wang, a Master's student in Computer Science at the University of 
 
 I am currently developing **MathBridge AI**, a mathematics learning platform designed for students, teachers, and parents. The platform provides interactive math practice, step-by-step hints, visual explanations, and learning progress insights.
 
-🌐 **Formal Website:** http://138.197.93.85  
+🌐 **Formal Website:** (https://mathbridge-ai.duckdns.org/)  
 🧪 **Test Website:** https://mathbridge-ai-user-testing-kxnpfqdx5wvzhyzuvhrnmw.streamlit.app/
 
 ## Current Projects

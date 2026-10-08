@@ -2,7 +2,7 @@
 
 I am Jiangwei Wang, a Master's student in Computer Science at the University of Florida.
 
-I am currently developing **MathBridge AI**, a mathematics learning platform designed for students, teachers, and parents. The platform provides interactive math practice, step-by-step hints, visual explanations, and learning progress insights.
+I am currently developing **MathBridge AI**, a mathematics learning platform designed for 6th-grade student, teachers, and parents. The platform provides interactive math practice, step-by-step hints, visual explanations, and learning progress insights.
 
 🌐 **Formal Website:** (https://dmt7tei6dr4v7.cloudfront.net)
 
